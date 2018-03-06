@@ -1,0 +1,9 @@
+# 表示注释
+# 忽略根目录下的.idea文件夹或文件
+/.idea
+
+# 忽略所有node_modules文件夹或文件
+node_modules
+
+# 不忽略config文件
+！config
