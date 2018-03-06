@@ -4,3 +4,5 @@
 # 初始化包管理工具
 > $ npm init
 
+# 安装第三方库
+> $ npm install 库的名称
